@@ -12,9 +12,9 @@ Eggdash is a B2C platform which connects customers with local farmers and provid
 ## Installation
 1. Fork and clone the repo
 2. Use the package manager [npm](https://pip.pypa.io/en/stable/) to install Eggdash
-3. npm run dev
 ```bash
 npm install
+npm run dev
 ```
 ## Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
